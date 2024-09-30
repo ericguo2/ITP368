@@ -1,0 +1,6 @@
+{
+  "appTitle": "lights_out",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
