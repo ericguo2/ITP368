@@ -1,0 +1,108 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "bloc_lab",
+            "cwd": "bloc_lab",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "bloc_lab (profile mode)",
+            "cwd": "bloc_lab",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "bloc_lab (release mode)",
+            "cwd": "bloc_lab",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "even_odd",
+            "cwd": "even_odd",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "even_odd (profile mode)",
+            "cwd": "even_odd",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "even_odd (release mode)",
+            "cwd": "even_odd",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "lights_out",
+            "cwd": "lights_out",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "lights_out (profile mode)",
+            "cwd": "lights_out",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "lights_out (release mode)",
+            "cwd": "lights_out",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "robot",
+            "cwd": "robot",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "robot (profile mode)",
+            "cwd": "robot",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "robot (release mode)",
+            "cwd": "robot",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "yahtzee",
+            "cwd": "yahtzee",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "yahtzee (profile mode)",
+            "cwd": "yahtzee",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "yahtzee (release mode)",
+            "cwd": "yahtzee",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
